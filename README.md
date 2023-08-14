@@ -1,2 +1,3 @@
 # hello-world
-atividades
+Esse repositório é referente a primeira atividade do curso
+de BackEnd
